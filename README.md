@@ -14,7 +14,7 @@ npm install codellins
 Or, you can use the CDN for direct access:
 
 ```html
-<script src="https://codellins.github.io/cookies/v1/cookie.js"></script>
+<script src="https://codellins.github.io/cookie/v1/cookie.js"></script>
 ```
 
 ## Usage
@@ -60,7 +60,7 @@ const copiedText = codellins.Clipboard.read();
 <html>
 <head>
     <title>Codellins Example</title>
-    <script src="https://codellins.github.io/cookies/v1/cookie.js"></script>
+    <script src="https://codellins.github.io/cookie/v1/cookie.js"></script>
 </head>
 <body>
     <button id="setCookieButton">Set Cookie</button>
